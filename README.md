@@ -9,8 +9,6 @@ Hello! I'm Nkem, an enthusiastic professional new to the field of Data Analysis.
 *   🌍  I'm based in United Kingdom, London
 *   🖥️  See my portfolio at [MyPortfolio](https://www.datascienceportfol.io/nkemci)
 *   ✉️  You can contact me at [ncigboekwe@gmail.com](mailto:ncigboekwe@gmail.com)
-*   🧠  I'm learning DP900
-*   🤝  I'm open to collaborating on Projects### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
                     </p>
